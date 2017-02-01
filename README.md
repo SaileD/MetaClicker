@@ -1,0 +1,2 @@
+# Meta Clicker
+Meta Clicker was a game based on the "Clicker" genre. This project was a group project where we were tasked with performing a domain analysis, determining system boundaries, creating a UML class diagram, and an interaction analysis in addition to creating the actual game. As a team, we developed a GUI and the game itself, all from scratch. The project was created using Java.
